@@ -1,4 +1,4 @@
 # GitHub-Actions
 Try out Github actions
 
-https://github.com/sanjeevmanchala/GitHub-Actions/workflows/CI_build/badge.svg
+![CI_Demo](https://github.com/sanjeevmanchala/GitHub-Actions/workflows/CI_Demo/badge.svg)
